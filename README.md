@@ -27,6 +27,6 @@ Presented on 10 May 2018
 |4 | TITLE | AUTHORS | [GitHub], [Website]|
 |5 | TITLE | AUTHORS | [GitHub], [Website]|
 |6 | TITLE | AUTHORS | [GitHub], [Website]|
-|7 | TITLE | AUTHORS | [GitHub], [Website]|
+|7 | Kickstarter Analytics | Joaquín Barrio Lottman. Alejandro Mendoza Silva, Pablo Miranda Torres, Pablo de Torre Barrio | [GitHub], [Website]|
 |8 | TITLE | AUTHORS | [GitHub], [Website]|
 |9 | TITLE | AUTHORS | [GitHub], [Website]|
